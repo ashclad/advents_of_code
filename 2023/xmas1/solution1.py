@@ -1,4 +1,4 @@
-# CURRENT GRADE: F
+# CURRENT GRADE: A
 
 with open('input.txt', 'r') as caldoc:
   caldoc = caldoc.readlines()

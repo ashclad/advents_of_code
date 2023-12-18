@@ -1,3 +1,4 @@
+# CURRENT GRADE: F
 # prepend = '>'
 
 with open('input.txt', 'r') as caldoc:
